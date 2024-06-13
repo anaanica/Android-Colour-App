@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ColourApp</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet">No internet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="colour_app_made_by_ana">colour app made by Ana</string>
+    <string name="items">Items</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="really_exit_app">Really exit app?</string>
+    <string name="cancel">Cancel</string>
+    <string name="hexadecimal_value">Hexadecimal value</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+</resources>
