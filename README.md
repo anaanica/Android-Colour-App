@@ -1,7 +1,7 @@
 # ColourApp
 
 An Android application that demonstrates:
-- asynchronous API fetchingand updating the UI
+- asynchronous API fetching and updating the UI
 - local storage access
 
 ![Imgur](https://i.imgur.com/iC7mCrP.png)
